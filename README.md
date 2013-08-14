@@ -1,4 +1,4 @@
-Référentiel de Compétences Web
+Référentiel des Compétences Web
 =====================
 
 Le Référentiel de Compétences Web comprend trois branches:
